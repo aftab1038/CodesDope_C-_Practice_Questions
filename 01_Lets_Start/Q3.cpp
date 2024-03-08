@@ -1,7 +1,7 @@
 // Code by AFTAB NAFEES 
 // GitHub : aftab1038
 
-/*  Q2. Write a program to take the input of an int and print it on the screen. */
+/*  Q3. Write a program to take the input of an int and print it on the screen. */
 
 #include <iostream>
 
