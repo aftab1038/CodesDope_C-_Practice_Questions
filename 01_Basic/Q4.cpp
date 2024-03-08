@@ -1,5 +1,5 @@
 // Code by AFTAB NAFEES
-// Github : aftab1038
+// GitHub : aftab1038
 
 /*
 Q4. Print the following pattern on the screen

@@ -1,5 +1,5 @@
 // Code by AFTAB NAFEES 
-// Github : aftab1038
+// GitHub : aftab1038
 
 /*  Q2. Store an integer in a variable x and print it on the screen.    */
 

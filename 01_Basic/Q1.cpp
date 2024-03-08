@@ -1,5 +1,5 @@
 // Code by AFTAB NAFEES 
-// Github : aftab1038
+// GitHub : aftab1038
 
 /* 
 Q1. Write a C++ program to print
