@@ -37,8 +37,21 @@ int main()
         num4 = num4 % 10;
     }
 
+    /*  
+        One way is to print each digit, like:
+        cout<<"New number<<num1<<num2<<num3<<num4<<endl;
+    */
+
+    // Another way : combining each digit to form single number
+    int newNumber = num1*10;
+        newNumber +=num2;
+        newNumber *= 10;
+        newNumber +=num3;
+        newNumber *= 10;
+        newNumber +=num4; 
+    
     // Printing the number after adding 2 to each digit
-    cout<<"New number : "<<num1<<num2<<num3<<num4<<endl;
+    cout<<"New number : "<<newNumber<<endl;
     
     return 0;
 }
